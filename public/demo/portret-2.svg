@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6dfd6"/><stop offset="1" stop-color="#b9a28a"/></linearGradient></defs>
+<rect width="300" height="400" fill="url(#g)"/>
+<circle cx="150" cy="150" r="62" fill="#5e4b3c" opacity=".55"/>
+<path d="M40 400c8-92 52-150 110-150s102 58 110 150z" fill="#5e4b3c" opacity=".55"/>
+<text x="150" y="380" text-anchor="middle" font-family="Arial" font-size="13" fill="#fff" opacity=".8">ukázkový profil</text>
+</svg>
